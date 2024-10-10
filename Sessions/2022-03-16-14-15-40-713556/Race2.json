@@ -1,0 +1,18 @@
+[
+    {
+        "lapNumber": 1,
+        "lapTIme": 191.160400390625,
+        "fuelUsage": 0.040897369384765625,
+        "fuelRemaining": 19.647890090942383,
+        "lapRemaining": 480,
+        "topSpeed": 18.761737823486328
+    },
+    {
+        "lapNumber": 2,
+        "lapTIme": 11.855199813842773,
+        "fuelUsage": 0.14220619201660156,
+        "fuelRemaining": 19.50568389892578,
+        "lapRemaining": 137,
+        "topSpeed": 0.001855745678767562
+    }
+]
